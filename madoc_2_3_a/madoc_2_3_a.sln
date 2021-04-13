@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "madoc_2_3_a", "madoc_2_3_a\madoc_2_3_a.csproj", "{563FD91E-7DF2-4878-A8F4-25C2E785F960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563FD91E-7DF2-4878-A8F4-25C2E785F960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563FD91E-7DF2-4878-A8F4-25C2E785F960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563FD91E-7DF2-4878-A8F4-25C2E785F960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563FD91E-7DF2-4878-A8F4-25C2E785F960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF136EF-DBDA-48ED-BB35-2B99F2A795E2}
+	EndGlobalSection
+EndGlobal

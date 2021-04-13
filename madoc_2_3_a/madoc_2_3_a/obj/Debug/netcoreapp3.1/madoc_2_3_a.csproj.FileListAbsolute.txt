@@ -1,0 +1,13 @@
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\bin\Debug\netcoreapp3.1\madoc_2_3_a.exe
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\bin\Debug\netcoreapp3.1\madoc_2_3_a.deps.json
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\bin\Debug\netcoreapp3.1\madoc_2_3_a.runtimeconfig.json
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\bin\Debug\netcoreapp3.1\madoc_2_3_a.runtimeconfig.dev.json
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\bin\Debug\netcoreapp3.1\madoc_2_3_a.dll
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\bin\Debug\netcoreapp3.1\madoc_2_3_a.pdb
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.csprojAssemblyReference.cache
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.AssemblyInfoInputs.cache
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.AssemblyInfo.cs
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.csproj.CoreCompileInputs.cache
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.dll
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.pdb
+C:\Users\sang\source\repos\madoc_2_3_a\madoc_2_3_a\obj\Debug\netcoreapp3.1\madoc_2_3_a.genruntimeconfig.cache

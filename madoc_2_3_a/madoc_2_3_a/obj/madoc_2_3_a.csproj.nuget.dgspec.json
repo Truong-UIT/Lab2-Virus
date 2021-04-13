@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sang\\source\\repos\\madoc_2_3_a\\madoc_2_3_a\\madoc_2_3_a.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sang\\source\\repos\\madoc_2_3_a\\madoc_2_3_a\\madoc_2_3_a.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sang\\source\\repos\\madoc_2_3_a\\madoc_2_3_a\\madoc_2_3_a.csproj",
+        "projectName": "madoc_2_3_a",
+        "projectPath": "C:\\Users\\sang\\source\\repos\\madoc_2_3_a\\madoc_2_3_a\\madoc_2_3_a.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sang\\source\\repos\\madoc_2_3_a\\madoc_2_3_a\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
