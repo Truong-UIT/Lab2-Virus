@@ -1,0 +1,8 @@
+C:\Lab2_4\Lab2_4\bin\Debug\Lab2_4.exe.config
+C:\Lab2_4\Lab2_4\bin\Debug\Lab2_4.exe
+C:\Lab2_4\Lab2_4\bin\Debug\Lab2_4.pdb
+C:\Lab2_4\Lab2_4\obj\Debug\Lab2_4.ProjectInstaller.resources
+C:\Lab2_4\Lab2_4\obj\Debug\Lab2_4.csproj.GenerateResource.cache
+C:\Lab2_4\Lab2_4\obj\Debug\Lab2_4.csproj.CoreCompileInputs.cache
+C:\Lab2_4\Lab2_4\obj\Debug\Lab2_4.exe
+C:\Lab2_4\Lab2_4\obj\Debug\Lab2_4.pdb
